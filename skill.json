@@ -1,0 +1,13 @@
+{
+  "name": "genpark-reynolds-boids-flocking-consensus-skill",
+  "version": "1.0.0",
+  "description": "Craig Reynolds boids flocking algorithm computing separation, velocity alignment, and spatial cohesion for multi-agent swarm consensus.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "swarm-robotics",
+    "boids-flocking",
+    "consensus-control",
+    "multi-agent-systems"
+  ]
+}
